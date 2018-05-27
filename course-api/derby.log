@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Sun May 27 14:27:00 EDT 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0163-a2da-86db-00000cf02938 
+Sun May 27 15:39:01 EDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0163-a31c-73ff-000006e80488 
 on database directory memory:/Users/davidmandelbaum/Desktop/GitHub/SpringBootTutorial/course-api/testdb with class loader sun.misc.Launcher$AppClassLoader@4e25154f 
 Loaded from file:/Users/davidmandelbaum/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
